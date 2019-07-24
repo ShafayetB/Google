@@ -3,10 +3,12 @@
 
 #include <bits/stdc++.h>
 using namespace std;
+
 #define WHITE 0
 #define GRAY 1
 #define BLACK 2
 #define SIZE 100
+
 int adj [SIZE] [SIZE];
 int colour [SIZE];
 int parent [SIZE];
@@ -23,13 +25,11 @@ int main () {
     int choice;
     int n;
 
-
     while (1) {
         //cout<<"----------------------------"<<endl;
         cout<<"1.Adjacency nodes of a node. \n2. Shortest path from a node."<<endl;
         cout<<"Please enter your choice: ";
         cin>>choice;
-
 
         if(choice==1) {
         cout<<"enter a node:"<<endl;
@@ -47,17 +47,13 @@ int main () {
         cin>>node1>>node2;
         vec[node1].push_back(node2);
         vec[node2].push_back (node1);
-
     }
     for (int i=0;i<vec[n].size();i++) {
     cout<<vec[n][i];
     }
-
     break;
     }
-
     if(choice==2) {
-
     int vertex;
     int edge;
     cin>>vertex>>edge;
@@ -69,13 +65,10 @@ int main () {
         cin>>node1>>node2;
         adj[node1][node2]=1;
         adj[node2][node1]=1;
-
     }
-
-    for(int i=0;i<vertex;i++) {
+      for(int i=0;i<vertex;i++) {
         for(int j=0;j<vertex;j++) {
             cout<<adj[i][j]<<" ";
-
         }
         cout<<endl;
     }
@@ -84,14 +77,10 @@ int main () {
     printPath(0,8);
     break;
     }
-
     else
-
-        cout<<"exit the program"<<endl;
-
+    cout<<"exit the program"<<endl;
     break;
-
-    }
+   }
 }
 
 void bfs (int adj[][SIZE],int vertex,int s) {
@@ -107,8 +96,8 @@ void bfs (int adj[][SIZE],int vertex,int s) {
      parent [s]=-1;  // Null
      queue<int>bfsQueue;
      bfsQueue.push(s);
-
-    cout<<"BFS is:";
+     cout<<"BFS is:";
+    
     while (!bfsQueue.empty()) {
      int u=bfsQueue.front();
      cout<<u<<"";
