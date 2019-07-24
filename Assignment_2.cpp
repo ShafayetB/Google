@@ -25,7 +25,7 @@ int main () {
 
 
     while (1) {
-        cout<<"----------------------------"<<endl;
+        //cout<<"----------------------------"<<endl;
         cout<<"1.Adjacency nodes of a node. \n2. Shortest path from a node."<<endl;
         cout<<"Please enter your choice: ";
         cin>>choice;
@@ -140,8 +140,3 @@ void printPath(int s,int endNode) {
                 cout<<endNode<<endl;
           }
 }
-
-
-
-
-
