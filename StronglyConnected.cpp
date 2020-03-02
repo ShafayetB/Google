@@ -28,8 +28,9 @@ void dfsVisitReverse(int u);
 
 int main()
 {
-    freopen("inputConnected.txt" , "r" , stdin);
-
+    //freopen("inputConnected.txt" , "r" , stdin);
+    int vertex, edge;
+    cout<<"Enter the vertex & edge : ";
     cin >> vertex >> edge;
     cout << "Vertex is : " << vertex <<endl;
     cout << "Edge is : " << edge <<endl;
