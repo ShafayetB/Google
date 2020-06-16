@@ -19,7 +19,7 @@
 - [Unit 1](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%201)
   - Introducing Google Analytics
 - [Unit 2](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%202)
-  - The Google Analytics Interface
+ - The Google Analytics Interface
 - [Unit 3](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%203)
   - Basic Reports
 - [Unit 4](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%204)
