@@ -1,6 +1,6 @@
 # Google
 
-🔶 Solutions for the [Google](https://www.google.com/) courses
+🔶 [Google](https://www.google.com/) courses
 
 ## Courses
 
