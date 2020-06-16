@@ -1,4 +1,5 @@
 # Introducing Google Analytics
+
 ## Assessment 1
 
 1. Using tracking code, Google Analytics can report on data from which systems?
