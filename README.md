@@ -32,7 +32,7 @@
 - [Unit 2](https://github.com/ShafayetB/Google/tree/master/Advanced%20Google%20Analytics/Unit%202)
   - Setting Up Data Collection and Configuration
 
- <br/><br/>
+ 
  🔷 **You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.** <br/>
 
 
