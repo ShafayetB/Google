@@ -25,14 +25,14 @@
 - [Unit 4](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%204)
   - Basic Campaign and Conversion Tracking
   
-  ## Advanced Google Analytics
+## Advanced Google Analytics
 
 - [Unit 1](https://github.com/ShafayetB/Google/tree/master/Advanced%20Google%20Analytics/Unit%201)
   - Data Collection and Processing
 - [Unit 2](https://github.com/ShafayetB/Google/tree/master/Advanced%20Google%20Analytics/Unit%202)
   - Setting Up Data Collection and Configuration
 
- 
+ <br/><br/>
  🔷 **You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.** <br/>
 
 
