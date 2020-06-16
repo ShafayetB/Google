@@ -1,14 +1,14 @@
 # Introducing Google Analytics
 ## Assessment 1
 
-1.Using tracking code, Google Analytics can report on data from which systems?
+1. Using tracking code, Google Analytics can report on data from which systems?
 
 - [x] E-commerce platforms?
 - [x] Mobile Applications
 - [x] Online point-of-sales systems
 - [ ] Systems not connected to the Internet
 
-2.To collect information using Google Analytics, which steps must endure completed? (select all that apply)
+2. To collect information using Google Analytics, which steps must endure completed? (select all that apply)
 
 - [ ] Install Google Analytics software on your desktop
 - [x] Create an Analytics account
