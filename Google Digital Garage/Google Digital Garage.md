@@ -3,5 +3,5 @@
 
 # Google Unlocked
 
-## 26 Topics
+<centre> 26 Topics</centre>
 
