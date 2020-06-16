@@ -64,7 +64,7 @@
 3. To see data for users from the U.S. and Canada only in a view, which filter would be applied?
 
 - [ ] Filter 1: include U.S. > Filter 2: include Canada
-- [ ]Filter 1: include Canada > Filter 2: include U.S.
+- [ ] Filter 1: include Canada > Filter 2: include U.S.
 - [x] Filter 1: include U.S. and Canada
 - [ ] Filter 1: exclude Europe and Asia
 
