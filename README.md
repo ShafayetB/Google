@@ -4,4 +4,4 @@
 
 ## Courses
 
-- [Google Digital Garage - Fundamentals of Digital Marketing](https://github.com/ShafayetB/MongoDB-University/tree/master/M001%20-%20MongoDB%20Basics)
+- [Google Digital Garage - Fundamentals of Digital Marketing](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage)
