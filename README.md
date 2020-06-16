@@ -1,6 +1,6 @@
 # Google
 
-🔶 <a href="https://www.google.com/">Solutions for the Google courses</a>
+🔶 Solutions for the [Google](https://www.google.com/) courses
 
 ## Courses
 
