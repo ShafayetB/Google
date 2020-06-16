@@ -24,6 +24,8 @@
 - [Unit 4](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%204)
   - Basic Campaign and Conversion Tracking
   
- 
+ <br/><br/>
+ 🔷 **You can see the certificates in my <a href="https://github.com/ShafayetB/Certificates">Certificates Repo</a> that contains all my certificates obtained through my journey.** <br/>
+
 
   
