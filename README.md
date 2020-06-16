@@ -5,6 +5,7 @@
 ## Courses
 
 - [Google Digital Garage - Fundamentals of Digital Marketing](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage)
+- [Google Analytics for Beginners](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners)
 
 
 ## Google Digital Garage - Fundamentals of Digital Marketing
@@ -14,13 +15,13 @@
 
 ## Google Analytics for Beginners
 
-- [Assessment 1](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners)
+- [Unit 1](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%201)
   - Introducing Google Analytics
-- [Assessment 2](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners)
+- [Unit 2](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%202)
   - The Google Analytics Interface
-- [Assessment 3](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners)
+- [Unit 3](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%203)
   - Basic Reports
-- [Assessment 4](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners)
+- [Unit 4](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners/Unit%204)
   - Basic Campaign and Conversion Tracking
   
  
