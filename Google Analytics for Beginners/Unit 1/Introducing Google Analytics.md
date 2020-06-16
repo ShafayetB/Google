@@ -2,111 +2,116 @@
 ## Assessment 1
 
 1. Using tracking code, Google Analytics can report on data from which systems?
+(select all answers that apply)
 
-- [x] E-commerce platforms?
+- [x] E-commerce platforms
 - [x] Mobile Applications
 - [x] Online point-of-sales systems
 - [ ] Systems not connected to the Internet
 
-2. To collect information using Google Analytics, which steps must endure completed? (select all that apply)
+2. To collect data using Google Analytics, which steps must be completed?
+(select all answers that apply)
 
-- [ ] Install Google Analytics software on your desktop
+- [ ] Install Google Analytics desktop software
 - [x] Create an Analytics account
-- [x] Add the Analytics tracking code to each page of your site
-- [ ] Download the Analytics app
+- [x] Add Analytics tracking code to each webpage
+ - [ ] Download the Analytics app
 
-3. The Analytics tracking code tin collect which of the following? (select all that apply)
+3. The Analytics tracking code can collect which of the following?
+(select all answers that apply)
 
-- [x] Language the browser is laid to
+- [x] Language the browser is set to
 - [x] Type of browser
 - [ ] User’s favorite website
-- [x] Device as well as operating system
+- [ ] Device and operating system
 
-4. When volition Google Analytics halt a session past times default?
+4. When will Google Analytics end a session by default?
 
-- [ ] After thirty minutes, regardless of user activity on your website
-- [ ] Once the user opens some other browser window
-- [x] When a user is inactive on your site for thirty minutes or to a greater extent than or closes a browser window
+- [ ] After 30 minutes, regardless of user activity on your website
+- [ ] Once the user opens another browser window
+- [x] When a user is inactive on your site for 30 minutes or more or closes a browser window
 - [ ] At noon every day
 
-5. Once Google Analytics processes data, it’s stored inward a database where it can’t endure modified.
+5. Once Google Analytics processes data, it’s stored in a database where it can’t be modified.
 
-- [x] True
-- [ ] False
+- [ ] True
+- [x] False
 
-6. Which represents the hierarchical construction of a Google Analytics delineate of piece of employment concern human relationship from laissez passer on to bottom?
+6. Which represents the hierarchical structure of a Google Analytics account from top to bottom?
 
 - [ ] View > Account > Property
 - [ ] Property > Account > View
 - [ ] Account > View > Property
 - [x] Account > Property > View
 
-7. A user alongside “edit” permissions at the Account degree volition automatically accept “edit” permissions at which other levels?
+7. A user with “edit” permissions at the Account level will automatically have “edit” permissions at which other levels?
+(select all answers that apply)
 
 - [ ] User
 - [x] Property
 - [x] View
 - [ ] Product
 
-8. To locate a property's Analytics tracking code, which sequence of steps should endure followed?
+8. To locate a property's Analytics tracking code, which sequence of steps should be followed?
 
-- [ ] “Admin” tab > “Tracking Code” > “Tracking Info”
-- [x] “Admin” tab > “Tracking Info” > “Tracking Code”
-- [ ] “Reporting” tab > “Audience Reports” > “Tracking Code”
-- [ ] “Audience Reports” > “Settings” > “Tracking Code”
+- [ ] Admin > Tracking Code > Tracking Info
+- [x] Admin > Tracking Info > Tracking Code
+- [ ] Reports > Audience > Tracking Code
+- [ ] Audience Reports > Settings > Tracking Code
 
-9. To role Analytics to collect website data, what must endure added to the website page HTML?
+9. To use Analytics to collect website data, what must be added to the website page HTML?
 
-- [ ] PHP tracking code
-- [ ] Google Analytics delineate of piece of employment concern human relationship number only
+- [ ] Google campaign parameters
+- [ ] Google Analytics terms and conditions
 - [x] Google Analytics tracking code
-- [ ] Influenza A virus subtype H5N1 permissions button
+- [ ] A permissions button
 
-10. Where should the Analytics tracking code endure placed inward the HTML of a webpage to collect data?
+10. Where should the Analytics tracking code be placed in the HTML of a webpage to collect data?
 
-- [x] Immediately afterward the opening <head> tag of your website
-- [ ] Immediately earlier the closing </head> tag of your website
-- [ ] Immediately afterward the opening <body> tag of your website
-- [ ] Immediately earlier the closing </body> tag of your website
+- [x] Immediately after the opening <head> tag of your website
+- [ ] Immediately before the closing </head> tag of your website
+- [ ] Immediately after the opening <body> tag of your website
+- [ ] Immediately before the closing </body> tag of your website
 
-11. When a novel persuasion is created, what information volition endure included?
+11. When a new view is created, what data will be included?
 
-- [ ] Data from earlier the persuasion was created
-- [x] Data from afterward the persuasion was created
-- [ ] Data from earlier as well as afterward the persuasion was created
+- [ ] Data from before the view was created
+- [x] Data from after the view was created
+- [ ] Data from before and after the view was created
 - [ ] No data
 
-12. A deleted persuasion tin endure recovered past times delineate of piece of employment concern human relationship administrators inside how many days?
+12. A deleted view can be recovered by account administrators within how many days?
 
 - [x] 35
 - [ ] 65
 - [ ] 95
 - [ ] 125
 
-13. What are the options for filtering information inward Google Analytics?
+13. What are the options for filtering data in Google Analytics?
 
-- [ ] Exclude information from a view
-- [ ] Include information inward a view
-- [ ] Modify which information appears inward your reports
+- [ ] Exclude data from a view
+- [ ] Include data in a view
+- [ ] Modify how data appears in your reports
 - [x] All of the above
 
-14. Why is it of import to laissez passer on off 1 unfiltered persuasion when using filters alongside Google Analytics?
+14. Why is it important to keep one unfiltered view when using filters with Google Analytics?
 
-- [x] To ensure you lot tin ever access the master data
-- [ ] In guild to configure Goals
-- [ ] In guild to role a filter for multiple views
-- [ ] There is no argue to accept an unfiltered view
+- [x] To ensure you can always access the original data
+- [ ] In order to configure Goals
+- [ ] In order to use a filter for multiple views
+- [ ] There is no reason to have an unfiltered view
 
-15. In which guild does Google Analytics filter data?
+15. In which order does Google Analytics filter data?
 
-- [ ] Alphabetical guild past times filter name
-- [ ] The guild inward which the filters were final edited
-- [x] The guild inward which the filters are applied
+- [ ] Alphabetical order by filter name
+- [ ] The order in which the filters were last edited
+- [x] The order in which the filters are applied
 - [ ] Randomized order
 
-16. When a filter is applied to a view, what information is affected?
+16. When a filter is applied to a view, what data is affected?
 
-- [ ] Data from earlier the filter was created
-- [x] Data from afterward the filter was created
-- [ ] All the information available inward a view
-- [ ] None of the information available inward a view
+- [ ] Data from before the filter was created
+- [x] Data from after the filter was created
+- [ ] All the data available in a view
+- [ ] None of the data available in a view
+ 
