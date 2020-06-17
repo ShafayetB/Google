@@ -3,7 +3,7 @@
 
 ## 26 Topics
 
-## Module 1
+## Module 1 - The Online Opportunity
 
 The increased use of the internet presents a lot of potential for which types of businesses?
 
@@ -34,7 +34,7 @@ What is a key benefit of having an online presence for a business?
 - [ ] Being able to offer new customers promotional discounts
 
 
-## Module 2
+## Module 2 - Your First Steps is Online Success
 
 Which tool helps you measure the success of your website?
 
@@ -65,9 +65,10 @@ Which of the following statements is true when marketing your business online?
 - [x] Social media is a great way to engage your audience
 
 
-## Module 3
+## Module 3 - Build your Web Presence
 
 Which of the following statements is true when it comes to developing a web presence for a business?
+
 - [ ] Customers can learn about a business by downloading a mobile app, but they can’t place an order using an app
 - [ ] Building a new website requires a large budget
 - [x] Mobile apps enable your customers to purchase your products without being on your website
@@ -109,7 +110,7 @@ What should you consider when developing your website content?
 - [ ] Whether the content will go viral or not
 
 
-## Module 4
+## Module 4 - Play Your Online Business Strategy
 
 What is the first step in creating an online business strategy?
 
@@ -145,6 +146,9 @@ What type of information can KPIs provide?
 - [x] Long-term projections
 - [ ] Financial viability
 - [ ] Board decisions
+
+
+## Module 5 - Get Started with Search
 
 Why are search engines a great place for a business to be found?
 
@@ -188,6 +192,9 @@ Which of these can Google Search Console help you to do?
 - [x] It helps you understand which keywords people are searching for on Google
 - [ ] It helps you run A/B tests on your home page
 
+
+## Module 6 - Get Discovered with Search
+
 Which of the following factors should you consider when optimising your website for search engines?
 
 - [ ] Colour scheme
@@ -223,6 +230,9 @@ Which of the following would be an ideal goal for an SEO plan?
 - [ ] Showing your website to as many people as possible
 - [ ] Being in first place in SERP for any keyword
 
+
+## Module 7 - Make Search Work for You
+
 Which of the following page titles would be most suitable for a website page describing a store’s return policy?
 
 How to Send Stuff Back
@@ -242,6 +252,9 @@ When expanding a business internationally, which of the following is most import
 - [ ] Time and dates written in the local format
 - [ ] Exchange rate information
 - [ ] Free giveaways for local customers
+
+
+## Module 8 - Be Noticed with Search Ads
 
 Search engine marketing can also be called what?
 
@@ -271,6 +284,9 @@ What should your search ad have in order to promote more clicks?
 - [ ] A close-up photo
 - [ ] A social media link
 
+
+## Module 9 - Improve yours Search Compaigns
+
 Which of the following is a benefit of using relevant ads and landing pages?
 
 - [ ] Increased cost for ad placements
@@ -298,6 +314,9 @@ What can conversion tracking in search help you measure?
 - [x] How many people click on your SEM ad and end up browsing your site
 - [ ] How many people visiting your site from a search ad end up completing a purchase
 - [ ] How many customers your ad has converted into brand ambassadors
+
+
+## Module 10 - Get Noticed Locally
 
 How can you improve a business’s visibility to people located near you geographically?
 
@@ -327,6 +346,9 @@ Which three pieces of information are essential to include first in your local d
 - [ ] Website, telephone numbers, email address
 - [ ] Business name, email address, website
 
+
+## Module 11 - Help People Nearby Find Your Online
+
 Which of the following factors help search engines determine if your business is local?
 
 - [x] Location details on the website, quality content and how mobile friendly the website is
@@ -347,6 +369,9 @@ Which of the following can help you gain visibility in search engines?
 - [ ] Including your address on your Twitter account
 - [ ] Optimising your site for desktop devices only
 - [ ] Adding a list of shops local to you on your website
+
+
+## Module 12 - Get Noticed with Social Media
 
 Which of the following can businesses achieve by using social media?
 
@@ -376,6 +401,10 @@ Which details should you look to include on a business profile page on social me
 - [x] Description of the business
 - [ ] Cost of products and services
 
+
+
+## Module 13 - Deep Dive Into Social Media
+
 A robust social media plan includes which of the following?
 
 - [ ] A list of content that mimics competitor content
@@ -389,3 +418,117 @@ What is the best way to put your social content in front of people who don’t a
 - [ ] Ask people to share your content to their networks
 - [x] Use paid promotion to reach new audiences
 - [ ] Put links to your social on your website
+
+What can social media analytics tools help you measure when assessing campaign results?
+
+- [ ] Whether the campaign was more successful than your competitors
+- [ ] Whether the visitors liked the social campaigns or not
+- [ ] Whether a visitor called the store after seeing a social post
+- [x] Whether the visitor clicked on a paid ad or organic listing
+
+Which of the following is a pitfall when using social media for business?
+
+- [ ] 2-way conversation with customers
+- [ ] Not being present on every social media platform
+- [x] Not having the resources to respond to comments and questions in a timely manner
+- [ ] Spending too much time reviewing social media analytics
+
+
+## Module 14 - Discovered The Possibilities of Mobile
+
+When looking to ensure your website is easily accessible by mobile users, what should you focus on doing first?
+
+- [ ] Redesign your website colour scheme
+- [x] Optimise your site
+- [ ] Create a mobile app
+- [ ] Shorten your website content
+
+What does responsive design mean?
+
+- [ ] Your visitors can manually adjust the size of your website
+- [x] Your website will adapt to suit whichever device it is being viewed on
+- [ ] Your customers can provide feedback on the design of your site
+- [ ] Your website will respond to clicks faster
+
+When it comes to optimising your website’s SEO for mobile users, which of the following is a crucial factor to keep in mind?
+
+- [ ] Short content and fewer images
+- [x] Performance and usability
+- [ ] Usability and short content
+- [ ] Less video content
+
+
+## Module 15 - Make Mobile Work for You
+
+When considering how mobile users will search for your business, which types of keywords should you focus on?
+
+- [ ] Long tail keywords
+- [x] Shorter keywords and phrases
+- [ ] Longer keywords and phrases
+- [ ] Exact match keywords
+
+Before running search ads, you should make sure your site is mobile-friendly. Which scenario best describes a mobile-friendly experience for a customer?
+
+- [ ] The business has a mobile app instead of a website
+- [ ] The site include business phone numbers
+- [x] The site works on different mobile devices
+- [ ] The site does not include any videos so it loads quickly
+
+Which of the following can be used to target an audience when using some social media ads?
+
+- [ ] People’s names
+- [ ] People’s address
+- [ ] People’s pet names
+- [x] People’s relationship status
+
+When making video content for your display ads, what is most important to ensure?
+
+- [ ] Videos are entertaining, long and include a CTA
+- [x] Videos are relevant, short and include a CTA
+- [ ] Videos are relevant, long and include a URL
+- [ ] Videos are short, informative and include a phone number
+
+
+## Module 16 - Get Started with Content Marketing
+
+Which of the following is an accurate definition of what a content marketing campaign involves?
+
+- [ ] Creating and posting content ad-hoc when you have the time
+- [ ] The creation of time-sensitive content that can be published through various channels
+- [ ] Regularly emailing customers with news about a business’s products or services
+- [x] The creation and promotion of online materials with the goal of increasing interest in a product or service
+
+What does the following definition describe? ‘The division of an audience into groups of who they are and what they like, with a goal of identifying a group most interested in your product/service.’
+
+- [ ] Marketing channels
+- [ ] Demographics
+- [x] Audience segmentation
+- [ ] Group dynamics
+
+Fill in the blank: When describing the purpose of content, what is missing? ‘To entertain, to inspire, to _______ and to convince’.
+
+- [ ] Humour
+- [ ] Please
+- [ ] Surprise
+- [x] Educate
+
+Which of the following best describes why approaches to writing need to be adapted for online content?
+
+- [x] Online readers have a reduced attention span, due to being flooded with information
+- [ ] Certain blogging platforms have a limit on the word count you can publish
+- [ ] Online readers only like to engage with long-form pieces of content
+- [ ] Online audiences are typically younger, so the language used needs to reflect this
+
+What are ‘highlighting key dates’ and ‘considering multiple channels’ best practices of?
+
+- [x] Creating a content calendar
+- [ ] Designing illustrations to support content
+- [ ] Segmenting your audience
+- [ ] Identifying social media influencers
+
+Which of the following metrics could help you understand which blog post is resonating the most with your audience?
+
+- [x] Session duration
+- [ ] Page views
+- [ ] Referral traffic
+- [ ] Unique page views
