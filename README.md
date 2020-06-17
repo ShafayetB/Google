@@ -13,8 +13,10 @@
 
 ## Google Digital Garage - Fundamentals of Digital Marketing
 
-- [Google Digital Garage - Fundamentals of Digital Marketing](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage)
-  - Module 1-26
+- [Module 1-26](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage/Module%201-26)
+- [Final Exam](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage/Final%20Exam)
+  - Total Number of Questions 40
+  - Required to Pass : 32 Questions (80%)
 
 ## Google Analytics for Beginners
 
