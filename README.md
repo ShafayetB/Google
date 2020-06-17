@@ -4,12 +4,18 @@
 
 ## Courses
 
+- [Google Web Designer](https://github.com/ShafayetB/Google/tree/master/Google%20Web%20Designer)
 - [Google Digital Garage](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage)
 - [Google Analytics Individual Qualification](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20Individual%20Qualification)
 - [Google Analytics for Beginners](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners)
 - [Advanced Google Analytics](https://github.com/ShafayetB/Google/tree/master/Advanced%20Google%20Analytics)
 - [Introduction to Data Studio](https://github.com/ShafayetB/Google/tree/master/Introduction%20to%20Data%20Studio)
 - [Google Tag Manager Fundamentals](https://github.com/ShafayetB/Google/tree/master/Google%20Tag%20Manager%20Fundamentals)
+
+
+## Google Web Designer
+
+- [Google Web Designer](https://github.com/ShafayetB/Google/tree/master/Google%20Web%20Designer)
 
 
 ## Google Digital Garage
