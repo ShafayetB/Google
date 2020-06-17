@@ -67,7 +67,7 @@ Which of the following statements is true when marketing your business online?
 
 ## Module 3
 
-- [ ] Which of the following statements is true when it comes to developing a web presence for a business?
+Which of the following statements is true when it comes to developing a web presence for a business?
 - [ ] Customers can learn about a business by downloading a mobile app, but they can’t place an order using an app
 - [ ] Building a new website requires a large budget
 - [x] Mobile apps enable your customers to purchase your products without being on your website
