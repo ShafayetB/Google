@@ -9,7 +9,8 @@
 
 
 <br/><br/><br/>
-⭕ During the assessment exam you will get 70 different multiple choice questions. You have to answer 80% correctly in less than 90 min.  
+⭕ During the assessment exam you will get 70 different multiple choice questions. 
+    You have to answer 80% correctly in less than 90 min.  
 
 [ Please note, that there are 100 possible different questions. Every time you pass the exam, you get 70 questions from those 100 randomly and in random order. ]
 
