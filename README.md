@@ -8,6 +8,7 @@
 - [Google Analytics for Beginners](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners)
 - [Advanced Google Analytics](https://github.com/ShafayetB/Google/tree/master/Advanced%20Google%20Analytics)
 - [Introduction to Data Studio](https://github.com/ShafayetB/Google/tree/master/Introduction%20to%20Data%20Studio)
+- [Google Tag Manager Fundamentals](https://github.com/ShafayetB/Google/tree/master/Google%20Tag%20Manager%20Fundamentals)
 
 
 ## Google Digital Garage - Fundamentals of Digital Marketing
@@ -47,6 +48,17 @@
   - Build your first report
 - [Unit 4](https://github.com/ShafayetB/Google/tree/master/Introduction%20to%20Data%20Studio/Unit%204)
   - Format and Design Reports
+
+## Google Tag Manager Fundamentals
+
+- [Unit 1](https://github.com/ShafayetB/Google/tree/master/Google%20Tag%20Manager%20Fundamentals/Unit%201)
+  - Starting out with Google Tag Manager
+- [Unit 2](https://github.com/ShafayetB/Google/tree/master/Google%20Tag%20Manager%20Fundamentals/Unit%202)
+  - Setting up Google Tag Manager
+- [Unit 3](https://github.com/ShafayetB/Google/tree/master/Google%20Tag%20Manager%20Fundamentals/Unit%203)
+  - Collecting Data using the Data Layer, Variables, and Events
+- [Unit 4](https://github.com/ShafayetB/Google/tree/master/Google%20Tag%20Manager%20Fundamentals/Unit%204)
+  - Using additional tags for Marketing and Remarketing
 
   
   
