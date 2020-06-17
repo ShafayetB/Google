@@ -4,17 +4,23 @@
 
 ## Courses
 
-- [Google Digital Garage - Fundamentals of Digital Marketing](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage)
+- [Google Digital Garage](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage)
+- [Google Analytics Individual Qualification](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20Individual%20Qualification)
 - [Google Analytics for Beginners](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20for%20Beginners)
 - [Advanced Google Analytics](https://github.com/ShafayetB/Google/tree/master/Advanced%20Google%20Analytics)
 - [Introduction to Data Studio](https://github.com/ShafayetB/Google/tree/master/Introduction%20to%20Data%20Studio)
 - [Google Tag Manager Fundamentals](https://github.com/ShafayetB/Google/tree/master/Google%20Tag%20Manager%20Fundamentals)
 
 
-## Google Digital Garage - Fundamentals of Digital Marketing
+## Google Digital Garage
 
 - [Module 1-26](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage/Module%201-26)
 - [Final Exam](https://github.com/ShafayetB/Google/tree/master/Google%20Digital%20Garage/Final%20Exam)
+
+
+## Google Analytics Individual Qualification
+
+- [Google Analytics Individual Qualification](https://github.com/ShafayetB/Google/tree/master/Google%20Analytics%20Individual%20Qualification)
 
 
 ## Google Analytics for Beginners
