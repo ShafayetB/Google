@@ -74,3 +74,4 @@
 - [ ] Built-in Element variable
 - [x] Built-in Click Classes variable
 - [ ] Built-in Click Target variable
+
