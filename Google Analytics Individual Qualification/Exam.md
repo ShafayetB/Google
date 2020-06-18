@@ -1,11 +1,5 @@
 # Google Analytics Individual Qualification
 
-In Multi-Channel Funnel Reports, how are default conversions credited?
-
-- [ ] Second to last campaign, search, or ad
-- [ ] Last campaign, search, or ad
-- [x] Equal credit along the conversion touchpoints
-- [ ] First campaign, search, or ad
 
 What feature collects company-specific data such as Member Status?
 
@@ -20,6 +14,13 @@ To recognize users across different devices, what feature must be enabled?
 - [ ] Google Ads Linking
 - [x] User ID
 - [ ] Audience Definitions
+
+In Multi-Channel Funnel Reports, how are default conversions credited?
+
+- [ ] Second to last campaign, search, or ad
+- [ ] Last campaign, search, or ad
+- [x] Equal credit along the conversion touchpoints
+- [ ] First campaign, search, or ad
 
 What report indicates the pages of a website where users first arrived?
 
