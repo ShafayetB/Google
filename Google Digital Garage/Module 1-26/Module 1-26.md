@@ -571,6 +571,9 @@ Which of the following statements is true when it comes to running email campaig
 - [ ] You need to include personal contact details
 - [ ] You can use any imagery, despite copyright
 
+
+## Module 18 - Advertise on Other Websites
+
 If you own a film blog, which type of customer can you expect to reach with display advertising?
 
 - [ ] People who use ad-blockers and are interested in your subject
@@ -598,3 +601,177 @@ When setting up display advertising campaigns, who can you target?
 - [x] People who speak different languages
 - [ ] People who already own specific products
 - [ ] People with a specific address
+
+
+## Module 19 - Deep Dive into Display Advertising
+
+In what way can display advertising be effective?
+
+- [ ] It guarantees more visitors to your site
+- [ ] It guarantees increased sales
+- [x] It drives traffic to your website
+- [ ] It improves your ranking in search engines
+
+Which of the following is an example of the type of data that advertising networks automatically collect and share with businesses?
+
+- [ ] The number of sales you make from the ad
+- [x] The cost of each ad you publish
+- [ ] The cost of creating the ad
+- [ ] A prediction of sales you can make from your ad
+
+Which of the following is true when purchasing ad placements on an advertising network?
+
+- [ ] You always need to contact the owner of the website to buy ads on their page
+- [x] The network provides data on the click-through-rate
+- [ ] The network provides names of the people who click your ad
+- [ ] The network will continue to show your ad for 7 days once your budget has expired
+
+If a person adds a product to a shopping cart but then leaves the website – which of the following tactics is most likely to encourage that person to return and purchase the product?
+
+- [ ] Retargeting with a display ad encouraging newsletter sign-up
+- [ ] Redesigning your website
+- [ ] Creating a Facebook page for your business
+- [x] Retargeting with a display ad that has a discount coupon
+
+What is the first step of display retargeting?
+
+- [ ] Sourcing keywords
+- [x] Defining your audience
+- [ ] Writing content
+- [ ] Setting a call to action
+
+
+## Module 20 - Make the Most of Video
+
+When incorporating videos into a digital strategy, which of the following tactics provides value to customers?
+
+- [ ] Setting up live streams of the business’s physical shop on their website
+- [x] Publishing a how-to video on their website
+- [ ] Producing sale campaign videos
+- [ ] Sharing personal vlogs
+
+What can using video as part of your online presence help you create?
+
+- [ ] Content that will go viral
+- [x] A channel to engage with customers
+- [ ] A variety of different brand perceptions
+- [ ] An online following and fanbase
+
+Fill in the blank: As a small business, creating videos to showcase your business or product requires only ______.
+
+- [ ] An agency, professional crew and equipment
+- [ ] Creativity, lots of experience and a large budget
+- [x] Creativity, planning and any budget
+- [ ] Creativity, planning and high-quality equipment
+
+Using videos in email marketing and social media is an effective way to do what?
+
+- [ ] Increase word of mouth referrals
+- [x] Engage and grow  your audience
+- [ ] Guarantee sales of your product or service
+- [ ] Lower the cost of developing content
+
+How can you take advantage of video for your product/services without actually making a video?
+
+- [ ] This isn’t possible
+- [x] Advertise on other people’s videos
+- [ ] Use images with a call to action instead
+- [ ] Share other people’s videos
+
+When looking at your video analytics, you discover people are only watching the first few seconds of your video. What should you do?
+
+- [ ] Consider removing the video from the platform
+- [ ] Consider re-shooting your video based on comments
+- [x] Consider updating your preview images, video titles or descriptions
+- [ ] Consider asking people to watch the whole video in the description
+
+
+## Module 21 - Get Started with Analytics
+
+Fill in the blank: Website analytics can tell you _____________.
+
+- [x] What time of day your website gets the most traffic
+How many mentions or likes you get on social media
+How well your competitor’s ad campaigns are doing
+The email addresses of visitors to your landing pages
+
+Analytics can give you immediate valuable information about which type of customers?
+
+- [x] Previous and current customers
+Current and future customers
+Previous and future customers
+Offline and online customers
+
+If your key business goal is to get people to book rooms at your guesthouse, what data are you most likely to be interested in?
+
+How long people spend on your ‘How To Find Us’ page
+Which day of the week is most popular for bookings
+Whether your funny Tweet goes viral
+- [x] How many people visiting your site book a room with you
+
+
+## Module 22 - Find Success with Analytics
+
+Most web analytics tools can tell you what information about the user?
+
+Their contact details, their behaviour and their operating system
+- [x] Their location, type of device they’re using and pages visited
+- [ ] Their location, type of device they’re using and contact details
+- [ ] Their interests, when they delete their browser cookies and their location
+
+Fill in the blank: If an ad is not performing well, one effective tactic is to _____________.
+
+- [ ] Try a different search engine
+- [x] Tweak the ad’s copy and analyse the results
+- [ ] Hire a professional ad agency
+- [ ] Delete the ad and try again
+
+Which section of Google Analytics can tell you whether visitors have found your website via social media?
+
+- [ ] Site search
+- [x] Acquisition
+- [ ] Behaviour
+- [ ] Search Console
+
+
+## Module 23 - Turn Data into Insights
+
+Which type of data relates to a metric that can be represented with a number?
+
+- [x] Quantitative
+- [ ] Qualitative
+- [ ] Holistic
+- [ ] Customer
+
+What makes the data cycle useful?
+
+- [x] It helps you make the most of the data collected from marketing activities
+- [ ] It helps you evaluate your competition
+- [ ] It provides information about what users like about your website
+- [ ] It presents collected data in a visually appealing way
+
+Fill in the blank: Actionable insights can be described as explaining the ______ of an online marketing campaign.
+
+- [x] ‘Why’
+- [ ] ‘How’
+- [ ] ‘When’
+- [ ] ‘Who’
+
+Which of the following is a benefit of using spreadsheets?
+
+- [x] Vast quantities of data can be stored, sorted and analysed quickly
+- [ ] Data can only be accessed when all users are online
+- [ ] Valuable customer and market insights can be delivered quickly
+- [ ] Spreadsheets are the only way to collect data and extrapolate results
+
+If you needed to showcase which parts of a website are being clicked on the most, which presentation type should you consider?
+
+- [ ] Bar chart
+- [ ] Pie chart
+- [ ] Table
+- [x] Heat map
+
+
+
+
+
