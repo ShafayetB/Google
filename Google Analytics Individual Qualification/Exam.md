@@ -201,3 +201,74 @@ What does assigning a value to a Google Analytics Goal enable?
 - [x] Compare goal conversions and measure changes to a website
 - [ ] Track real-time business revenue
 - [ ] Track actual revenue from conversions
+
+When does a default Analytics session expire?
+
+- [ ] At noon every day
+- [x] When a user is inactive on your website for more than 30 minutes
+- [ ] When a user opens another browser window
+- [ ] After 30 minutes, regardless of user activity on your website
+
+What report indicates the last page users viewed before leaving a website?
+
+- [ ] Landing Pages report
+- [ ] All Pages report
+- [x] Exit Pages report
+- [ ] Pages report
+
+Google Analytics cannot collect data from which systems by default?
+
+- [ ] Mobile devices
+- [ ] Online point-of-sale systems
+- [ ] Websites
+- [x] Offline inventory database
+
+What would prevent data from appearing in a Custom Report?
+
+- [ ] Too many metrics in a Custom Report
+- [ ] A filter that removes all the data
+- [x] Custom Report isn’t shared with users in the same view
+- [ ] Too many dimensions in a Custom Report
+
+Where should the Analytics tracking code be placed in the HTML of a webpage for data collection?
+
+- [ ] Just before the closing </body> tag
+- [ ] Just after the opening <head> tag
+- [x] Just before the closing </head> tag
+- [ ] Just after the opening <body> tag
+
+OR
+
+- [ ] Just before the closing </body> tag of your website
+- [ ] Just after the opening <body> tag of your website
+- [x] Just before the closing </head> tag of your website
+- [ ] Just after the opening <head> tag of your website
+ 
+Segments will not allow you to do what?
+
+- [ ] Create subsets of sessions or users
+- [x] Permanently alter data
+- [ ] Build custom Remarketing lists
+- [ ] Isolate and analyze data
+
+To recognize users across different devices, what is required for User ID?
+
+- [ ] Google Tag Manager
+- [x] Sign-in that generates and sets unique IDs
+- [ ] A new Analytics account for reporting
+- [ ] All of the aboveIsolate and analyze data
+
+What channel is not included in the default Channels report?
+
+- [ ] Direct
+- [ ] Display
+- [x] Device
+- [ ] Organic Search
+
+What is not a filter setting for data in views?
+
+- [ ] Include
+- [x] Restore
+- [ ] Exclude
+- [ ] Modify
+
