@@ -532,3 +532,69 @@ Which of the following metrics could help you understand which blog post is reso
 - [ ] Page views
 - [ ] Referral traffic
 - [ ] Unique page views
+
+
+## Module 17 - Connect Through Email
+
+Which of the following will you need to start an email marketing programme?
+
+- [ ] A collection of email templates
+- [ ] A ‘Contact Us’ form
+- [x] A way to collect people’s email addresses
+- [ ] A set budget
+
+Which of the following is a common feature of email marketing platforms?
+
+- [ ] Personalised, custom templates
+- [ ] A free list of email addresses you can target
+- [x] A feature allowing users to unsubscribe from your emails
+- [ ] Automation of your search ad campaigns
+
+Which of these is a good practice to keep in mind when sending emails to your contacts?
+
+- [x] Run an A/B test on your subject line to determine which one works best
+- [ ] Send the same generic and simple message to your entire contact database
+- [ ] Include enough content in the email so there is no need for them to click away to read further elsewhere
+- [ ] Only include a call-to-action on the landing page you’re linking to in the email
+
+If the open rate of your emails seems low, which of the following could help you fix that?
+
+- [ ] Redesign your website
+- [ ] Change the colour of the buttons inside your email
+- [ ] Send your emails to more contacts
+- [x] Adjust the subject line of your email
+
+Which of the following statements is true when it comes to running email campaigns for a business?
+
+- [x] There’s no need to use sponsored ads within your email marketing
+- [ ] There’s no need for analytics when it comes to email marketing
+- [ ] You need to include personal contact details
+- [ ] You can use any imagery, despite copyright
+
+If you own a film blog, which type of customer can you expect to reach with display advertising?
+
+- [ ] People who use ad-blockers and are interested in your subject
+- [x] People who haven’t read your blog before but are interested in your subject
+- [ ] Only people who have read your blog previously
+- [ ] Only people interested in films and movies
+
+Fill in the blank: The ads on search engines are usually made up of ________.
+
+- [ ] Audio
+- [ ] Video
+- [x] Text
+- [ ] Images
+
+When using search engine marketing, where can your ads appear?
+
+- [x] Only on search engines
+- [ ] Only on websites
+- [ ] On search engines and websites
+- [ ] On websites and social media
+
+When setting up display advertising campaigns, who can you target?
+
+- [ ] People with specific names
+- [x] People who speak different languages
+- [ ] People who already own specific products
+- [ ] People with a specific address
