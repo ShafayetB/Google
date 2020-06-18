@@ -272,3 +272,44 @@ What is not a filter setting for data in views?
 - [ ] Exclude
 - [ ] Modify
 
+In Multi-Channel Funnel Reports, what channel would not be credited with a conversion?
+
+- [x] Television commercials
+- [ ] Paid and organic search
+- [ ] Website referrals
+- [ ] Social network
+
+What feature can join offline business systems data with online data collected by Google Analytics?
+
+- [ ] AdWords Linking
+- [x] Data import
+- [ ] User ID
+- [ ] Goal tracking
+
+Which reports indicate how website referrals, organic search, and ad campaigns assisted in conversions?
+
+- [ ] Ecommerce reports
+- [ ] Goals reports
+- [ ] Acquisition reports
+- [x] Multi-Channel Funnel reports
+
+If a Destination Goal is created for a newsletter sign-up and a user completes the newsletter sign-up three times in three separate sessions, how many Goal conversions will Google Analytics count?
+
+- [x] 3
+- [ ] 2
+- [ ] 6
+- [ ] 1
+
+What is a “dimension” in Google Analytics?
+
+- [ ] A comparison of data between two date ranges.
+- [ ] A report that offers information about your audience.
+- [x] An attribute of a data set that can be organized for better analysis.
+- [ ] The total amount of revenue a business has made in a given date range.
+
+What feature is required to collect the number of comments users posted to a web page?
+
+- [ ] Custom Dimension
+- [ ] Calculated Metric
+- [ ] Custom Channel Groupings
+- [x] Custom Metric
