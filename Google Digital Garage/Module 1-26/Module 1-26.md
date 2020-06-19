@@ -772,6 +772,111 @@ If you needed to showcase which parts of a website are being clicked on the most
 - [x] Heat map
 
 
+## Module 24 - Build your Online Shop
+
+What would be beneficial to include on a product description page?
+
+- [ ] Previous versions of the product
+- [ ] Links to other suppliers
+- [x] Reviews of the product
+- [ ] Price comparisons
+
+Which of the following is an advantage of e-commerce?
+
+- [ ] More relaxed checkout procedure
+- [x] Low operational costs
+- [ ] Minimal interaction required with the customer
+- [ ] Segmentation of audiences
+
+To an owner or administrator, what is a functional benefit of having an online store?
+
+- [ ] It collects the addresses of your online store visitors
+- [x] It provides a backend system with order management
+- [ ] It provides a quicker checkout process than a physical store
+- [ ] It allows you to feature more sales and discounts than a physical store
+
+What is the name of the process that describes what happens when a customer is taken to a separate site to complete a transaction before being sent back to the original site again?
+
+- [ ] Second-party payment processing
+- [x] Third-party payment processing
+- [ ] External payment processing
+- [ ] Internal payment processing
 
 
+
+## Module 25 - Sell more Online
+
+Which of the following is a sign that customers are having trouble using a particular device to make purchases?
+
+- [x] Analytics shows you have a lot of mobile visitors, but very few purchases through mobile
+- [ ] A specific product is not selling much compared to your other products
+- [ ] You get a lot of questions about your return policy
+- [ ] People are having trouble using a promo code for a current sale
+
+What is an example of product merchandising?
+
+- [ ] Running an ad for your products
+- [ ] Adding a way for customers to filter your products
+- [x] Displaying very specific, featured products on your home page
+- [ ] Cross-selling products in the checkout process
+
+Which of the following statements is true when describing how retargeting ads work?
+
+- [ ] Retargeting ads are visible to people who haven’t been on your website yet
+- [x] Once a user visits your site, the code drops an anonymous browser cookie
+- [ ] Once your customer purchases, you can not turn off the retargeting ad
+- [ ] Retargeting will always drive customers to your site
+
+
+
+## Module 26 - Expand Internationally
+
+What is the best way to translate the content on your website for a new market?
+
+- [ ] Google translate
+- [x] Native speakers
+- [ ] Translation software
+- [ ] Language guide
+
+Before starting to promote products to other countries online, what could you use to gauge demand for your product in that specific market?
+
+- [ ] Translation software
+- [x] Keyword planning tools
+- [ ] Interviews with people from that country
+- [ ] A range of search ads in different countries
+
+When adapting your website for customers who speak a different language, what should you do?
+
+- [ ] Have a ‘translate’ button that pulls a translation from an external provider
+- [x] Translate your content with consideration to particular words and phrases
+- [ ] Translate your content directly, word for word
+- [ ] Localise the name of the business owners
+
+Which of the following is primarily meant to target new customers online?
+
+- [ ] Email marketing
+- [ ] Print advertising
+- [ ] Retargeting advertising
+- [x] Search advertising
+
+What should a business do first, when considering going into a new market?
+
+- [ ] Hire an agency to translate its website into the local language
+- [ ] Open a new office in the capital city
+- [x] Determine its ability to deliver products and review all tax and legal information
+- [ ] Invest in major ad campaigns to raise brand awareness
+
+When selling to people in different countries, what payment form should you consider using if you aren’t already?
+
+- [ ] Debit cards
+- [ ] Credit cards
+- [x] Paypal or Worldpay
+- [ ] Bank transfers
+
+Which of the following options is important to research when planning to expand delivery of products and services to customers across the globe?
+
+- [ ] What times of the day international shoppers are online
+- [x] The legal and tax considerations in that market
+- [ ] Which social channels are popular in that market
+- [ ] Which couriers offer the cheapest services for global shipping
 
