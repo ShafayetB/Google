@@ -309,3 +309,225 @@ Which search query would trigger an ad based on this keyword: [London portrait p
 - [ ] Photographers in London
 
 
+## Reach More People Locally, on Social Media, or on Mobile
+
+When trying to promote your business locally, what three key bits of information should be present in your directory listing?
+
+- [x] Business name, address, phone number
+Personal name, business name, postcode
+Name, PO box, freephone number
+Business name, CEO, company registration number
+
+Mobile advertising is a great tool for marketers, but all that good work could be undone if your website isn’t what?
+
+- [x] Optimised for different devices
+- [ ] Visually engaging
+- [ ] Full of relevant information
+- [ ] Text heavy
+
+Digital marketing isn’t just about selling your products internationally. It can be used to great effect for local businesses. What do we mean by ‘local businesses’?
+
+- [x] A business that operates from a specific geographic location
+- [ ] A business that is within a 5km radius from the customer
+- [ ] A business that has existed within a community for more than 5 years
+- [ ] A business that only provides a service based product
+
+With more and more users using mobile to look at websites, it is key that you optimise your site so users can find it when searching online. Which two elements should you look to optimise for improved SEO performance?
+
+- [x] Site speed and usability
+- [ ] Keywords and metadata
+- [ ] Image size and navigation
+- [ ] Site speed and visual appearance
+
+When looking to create video content for your marketing strategy, what three best practices should you look to include?
+
+- [ ] Short, technical, include a call to action
+- [ ] Relevant, short, entertaining
+- [ ] Short, entertaining, include a call to action
+- [x] Short, relevant, include a call to action
+
+How would you classify the content distribution channel that uses influencer and outreach marketing to increase a brand’s reach?
+
+- [ ] Paid
+- [ ] Owned
+- [ ] Earned
+- [x] Published
+
+What type of tool can be used to monitor and evaluate your social media audience’s actions on your website?
+
+- [ ] Content scheduling tools
+- [ ] Audience profiling tools
+- [ ] Social media analytic tools
+- [x] Website analytic tools
+
+There are lots of social media platforms out there, but what is a benefit of using smaller, more niche social media platforms for your business?
+
+- [ ] People on niche platforms are more likely to engage with you
+- [x] Your content will be put in front of specific audiences
+- [ ] Your content will be seen by a mix of different people, gaining more views and likes
+- [ ] It enhances your brand to be seen on more specific social media platforms
+
+Fill the blank: When it comes to promoting a business locally, search engines can _______________ your business in the search results page if the user is near your location.
+
+- [x] prioritise
+- [ ] highlight
+- [ ] hide
+- [ ] promote
+
+Using social media for business purposes can be very different to running personal profiles. If you’re looking to attract people to your social network, what tone of voice should you consider?
+
+- [ ] Stern & Serious
+- [ ] Serious & Honest
+- [ ] Fun & Inviting
+- [x] Engaging & Inviting
+
+Fill in the blank: When search engines use factors like geolocation, IP address and location based search terms to produce geographically tailored results, this is called _____________.
+
+- [x] Local Search
+- [ ] Geo search
+- [ ] Mobile search
+- [ ] Organic search
+
+Local directories are a great tool for getting noticed locally online. What would be the first step in using a directory?
+
+- [ ] Research competitors
+- [x] Create a listing
+- [ ] Create an ad
+- [ ] Post a link
+
+What are the benefits of using social media when looking to advertise your business locally?
+
+- [ ] People trust local businesses on social media
+- [x] You can target ads to a specific local audience
+- [ ] You can make video ads promoting the area
+- [ ] People use social media more than they use search engines
+
+Which of the following is a core benefit that content marketing can bring to a business’s online presence?
+
+- [x] It can improve sales by directing more traffic to your website
+- [ ] It can enable a business to create a bank of content, which can be reused to create ads
+- [ ] It helps a company identify its biggest competitors
+- [ ] It provides you with another channel to push sales and promotional messages to customers on a regular basis
+
+Which of the following is a core benefit that content marketing can bring to a business's online presence?
+
+- [x] It can improve sales by directing more traffic to your website
+- [ ] It can enable a business to create a bank of content, which can be reused to create ads
+- [ ] It helps a company identify its biggest competitors
+- [ ] It provides you with another channel to push sales and promotional messages to customers on a regular basis
+
+When looking to get noticed locally online, what information should you ensure is on your website as a minimum?
+
+- [ ] Your social media links
+- [ ] An interactive map
+- [x] Your physical location details
+- [ ] Business registration number
+
+Why is it important to reach customers on their mobiles when advertising locally?
+
+- [x] People use their phones while they are on the go
+- [ ] Ads are smaller in mobile devices and therefore cheaper
+- [ ] People prefer to receive adverts on their mobile
+- [ ] Everyone has a mobile phone
+
+When looking to promote your products and services locally, what are the benefits of using search engine ads?
+
+- [ ] Everyone uses search engines
+- [x] You can target ads to a specific geographic area
+- [ ] You can target ads to specific genders
+- [ ] Search ads are cheaper than display adverts
+
+Which of the following would be described as a good business goal to set for your social media campaigns?
+
+- [ ] Increase staff morale
+- [x] Increase audience engagement
+- [ ] Increase customer satisfaction
+- [ ] Increase overall profit
+
+“Because online attention spans are shorter, a great hook or opening sentence is important to draw people in.” What is this a best practice example of?
+
+- [x] Writing engaging online copy
+- [ ] Keeping the target audience in mind
+- [ ] Understanding the user journey
+- [ ] Being consistent in your approach to copy
+
+When designing mobile advertising campaigns, what is a best practice to identify which keywords to target?
+
+- [ ] Ask your audience what they search for when looking for similar products
+- [x] Use the Google Keyword research tool or Bing Keyword research tool
+- [ ] Use a tool to harvest the keywords your competitors are using
+- [ ] Use all the usual keywords from your website in your advertising account
+
+Which of the following tools could be used to gain an insight into the phrases and questions people search for about a given subject online?
+
+- [x] Answer The Public
+AdWords Editor
+Facebook business manager
+SEM Rush
+
+When building a website for a business, what type of design should it have in order to be “mobile friendly”?
+
+- [ ] A scaled design
+- [ ] A visual design
+- [x] A responsive design
+- [ ] An integrated design
+
+Building a plan will help you to focus your efforts when using social media. What should you consider when making your social media plan?
+
+- [ ] Your audience’s data
+- [x] Your audience’s interests
+- [ ] You audience’s available income
+- [ ] Your audience’s offline behaviour
+
+Why is social media a great tool for your business to build trust and engagement with your audience?
+
+- [ ] You can share offers and discounts exclusively to your following
+- [ ] You can share blogs from other businesses to cover more than what you do
+- [x] You can share honest reviews about your product or service
+- [ ] You can connect with customers at any time of the day
+
+Mobile apps are a great tool to engage with customers on the go. What is one of the major benefits of a mobile app over a website?
+
+- [x] Apps allow you to send push notifications
+- [ ] Apps are easy to access on the app store
+- [ ] Apps generally work on more mobile devices
+- [ ] Apps allow you to collate more data on your customers
+
+When looking to promote a business on social media, what is a good way to grow your social media following or engagement quickly?
+
+- [x] Paid advertising
+- [ ] Pay for followers
+- [ ] Follow all of your competitors’ followers
+- [ ] Overuse hashtags
+
+When it comes to knowing which social media platforms to focus your efforts on, how can you work out which one will work best for you?
+
+- [ ] Compare follower numbers across platforms
+- [x] Use online analytics tools to measure engagement
+- [ ] See what competitor businesses are using
+- [ ] Ask friends and family which platforms they use
+
+When it comes to mobile, how would you define usability?
+
+- [ ] The visitor’s time navigating your site
+- [x] The visitor’s experience on your site
+- [ ] The visitor’s general time on your site
+- [ ] The vistior’s purpose when on your site
+
+When looking to advertise your business to mobile users, social media advertising can be really effective because…
+
+- [ ] It allows you to target people who have ad blockers enabled
+- [ ] It can be seen by people who aren’t logged into their accounts
+- [x] It allows you to target people based on their likes and interests
+- [ ] It doesn’t cost too much to spread your ads far
+
+Which of the following actions would be most effective for a business to take in order to help them progress towards achieving their content marketing goals?
+
+- [ ] Personalising content to make each customer feel important, taking into account available data about each individual customer.
+- [ ] Reducing the number of channels used for content marketing to only those channels with the highest referral numbers, thus saving money
+- [ ] Identifying audiences who view their content, and ensuring those specific audiences get targeted in the future, with the aim of increasing sales
+- [x] Refining their content marketing strategy as they go, taking into account available data and metrics
+
+
+
+
