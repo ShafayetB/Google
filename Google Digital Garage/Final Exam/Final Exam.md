@@ -530,4 +530,152 @@ Which of the following actions would be most effective for a business to take in
 
 
 
+## Reach More Customers with Advertising
+
+When looking at your email marketing metrics, Click Through Rate (or CTR) highlights which of the following insights?
+
+- [ ] % of people that made a purchase after receiving the email
+- [ ] % of people that opened the email out of the total recipients
+- [x] % of people who clicked on a link in the email out of the total recipients
+- [ ] % of people who were sent the email against the total number of conversions made
+
+When discussing display advertising, what is an ad network?
+
+- [ ] A way to get free traffic to your site
+- [ ] A directory of lots of websites that sell the same products as you do
+- [ ] An online store of images you can use within your content
+- [x] A platform allowing the advertiser to advertise on websites within the network
+
+When it comes to email marketing, what do we mean by the term A/B testing?
+
+- [ ] A/B testing means you can split your contacts alphabetically
+- [ ] A/B testing means you send the same email twice to the same people
+- [x] A/B testing means splitting your audience and sending each of them a different variation of your email
+- [ ] A/B testing means it is spell checked and proofed, prior to hitting send
+
+What is one of the benefits of using templates for your email marketing campaigns?
+
+- [x] You can reuse the same template
+- [ ] They are always free
+- [ ] You can duplicate the design of your website
+- [ ] Templates work better on mobile
+
+Which of the following factors can impact the open rate of your email campaigns?
+
+- [ ] The amount of links contained in the email
+- [ ] The number of images in your email
+- [ ] The opportunity for customers to opt-out
+- [x] The subject line of the email
+
+How can you attract social media users to share your video content online?
+
+- [x] Tag them in posts
+- [ ] Use hashtags
+- [ ] Make them funny
+- [ ] Use subtitles
+
+Which of the following is a key strategy for distributing your video content?
+
+- [x] Share videos across all of your digital marketing tools
+- [ ] Pick one primary place to share your video content
+- [ ] Trust word-of-mouth to drive traffic to your videos
+- [ ] Send out a postcard to relevant mailing lists
+
+Which of the following is a benefit of search advertising over display advertising?
+
+- [ ] Search ads are more likely to be clicked on
+- [ ] Search advertising is cheaper than display advertising
+- [ ] Search advertising allows ads to be created in multiple formats
+- [x] Search advertising is shown to customers who are searching for your specific terms
+
+When advertisers run online ads that typically include an image for people to click on, it’s called…
+
+- [ ] Search Engine Optimisation
+- [ ] Banner advertising
+- [x] Display advertising
+- [ ] Webpage advertising
+
+Which of the following is the most accurate analogy for a display advertising network?
+
+- [ ] A targeting option for publishers
+- [x] A marketplace between online publishers and advertisers
+- [ ] A payments system for online ad campaigns
+- [ ] A targeting option for advertisers
+
+Why is it important that you set goals when planning your display ad campaigns?
+
+- [ ] To help determine the best way to collate customer data
+- [x] To help determine the performance and allow for optimisation
+- [ ] To help determine where your budget will be spent
+- [ ] To help determine the performance of your competition
+
+If the analytics for your video campaign shows people are only watching the first few seconds of your video, what can you do to try and amend this?
+
+- [ ] Change the colours to be more eye-catching
+- [ ] Change how much your branding is shown in the video
+- [x] Update the description to tell people more about the video
+- [ ] Delete the video and try again with edited content
+
+How can your business benefit from video without making one yourself?
+
+- [x] Advertising on other people’s videos
+- [ ] Commenting on other people’s videos
+- [ ] Sharing other people’s videos
+- [ ] Interacting with other people’s videos
+
+When using display advertising, what could you include in an ad to achieve the goal of driving more sales?
+
+- [x] Promotions and special offers
+- [ ] Personalised messages
+- [ ] Location specific information
+- [ ] Product shots and detailed information
+
+Which of the following is a benefit of display advertising over search advertising?
+
+- [ ] Display advertising is cheaper than search advertising
+- [x] Appearing on relevant websites offering advertising space
+- [ ] Ads can appear at the top of search engine results pages
+- [ ] Display ads are more likely to be clicked on
+
+When planning your display advertising, what does the word ‘placement’ mean?
+
+- [x] The exact location of your ad on a particular page of a website
+- [ ] The size and position of your ad
+- [ ] The exact location of your ad on search engine results pages
+- [ ] The position of text within your ad
+
+Retargeting allows you to…
+
+- [x] Target users, based on the specific actions they take on your site
+- [ ] Target people, based on their likes and interests
+- [ ] Appear higher within the search results
+- [ ] Target people before they come to your website
+
+Which form of targeting would you use to display ads to people who have previously visited your website?
+
+- [ ] Search advertising
+- [ ] Reacquiring
+- [ ] Readvertising
+- [x] Retargeting
+
+Fill the blank: In the world of display advertising, remarketing is a way to _________.
+
+- [ ] pay less per click than standard SEM ads
+- [ ] show ads to people before they visit your website
+- [x] show ads to people after they visit your website
+- [ ] display a pop up on your website when people visit it
+
+When creating video marketing content on a budget, what is the first thing you should consider doing?
+
+- [ ] Shooting as much as you can and culling it later
+- [ ] Finding editing software
+- [ ] Finding equipment to use
+- [x] Planning your content
+
+What can you do to help your videos appear in search results?
+
+- [ ] Make the content really interesting
+- [x] Give detailed descriptions of its content
+- [ ] Clearly brand your videos
+- [ ] Include calls to action within the videos
 
