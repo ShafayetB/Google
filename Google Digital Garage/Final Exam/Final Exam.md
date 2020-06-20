@@ -679,3 +679,104 @@ What can you do to help your videos appear in search results?
 - [ ] Clearly brand your videos
 - [ ] Include calls to action within the videos
 
+
+## Track and Measure Web Traffic
+
+When using analytics programmes on your website, which of these do not fall under the category of a metric?
+
+- [x] Browser users use to access your site
+- [ ] Unique visitors to your site
+- [ ] Time users spend on your site
+- [ ] Number of pages viewed per visit
+
+When using analytics on your website, what do we mean by the term ‘conversion’?
+
+- [ ] The act of a user coming from a certain geographical location
+- [ ] The act of a user spending a certain amount of time on the site
+- [ ] The act of a user meeting a specific metric
+- [x] The act of a user completing a goal
+
+How is a spreadsheet defined?
+
+- [x] An interactive computer application for the organisation, analysis and storage of data
+- [ ] A static collection of related data tables that can be queried to locate specific fields
+- [ ] A tool for storing large amounts of numerical data, but not text-based data
+- [ ] A digital balance sheet to keep track of financial transactions
+
+When using web-based analytics tools, by segmenting the data you will be able to achieve which of the following?
+
+- [ ] Bid higher within your SEM advertising account
+- [x] Find insights that can help you identify where to make improvements
+- [ ] Build better social media profiles
+- [ ] Run advertising in other countries around the world
+
+What is the benefit of using digital data?
+
+- [x] It can help you make informed decisions and improve online performance
+- [ ] Digital data is always 100% accurate
+- [ ] Digital data allows you to save money on offline analytics
+- [ ] Using digital data allows you to automatically reach more customers
+
+When it comes to web analytics, what insights can you gather using analytics tools?
+
+- [ ] What websites users visit after leaving your website
+- [ ] How you currently rank in search engines
+- [x] How people interact with your website
+- [ ] How people interact with your competitors’ websites
+
+When using analytics programmes on your website, which of these do not fall under the category of a dimension?
+
+- [ ] The device users access the site with
+- [x] The time a user spends on the site
+- [ ] The browser a user uses to visit the site
+- [ ] The geographical location of the user
+
+What do website analytics allow you to do?
+
+- [ ] Set up advertising accounts to drive continuous improvement
+- [x] Understand users behaviour and improve the effectiveness of your digital marketing efforts
+- [ ] Interact with customers on your website to increase conversion
+- [ ] Predict your users next move based on previous data
+
+In the world of analytics, the time the user spent on your site is considered which type of data?
+
+- [ ] Conversion
+- [ ] Clocking
+- [x] Metric
+- [ ] Dimension
+
+In the world of analytics, tracking the type of device the user accessed your site by is considered which type of data?
+
+- [ ] Conversion
+- [x] Dimension
+- [ ] Access
+- [ ] Metric
+
+How do you handle data in analytics to gain greater insights into our audience’s behaviour?
+
+- [ ] Partition
+- [ ] Sample
+- [x] Segment
+- [ ] Extract
+
+Fill the blank: When you link Google Ads with Google Analytics you are able to understand which ________ are driving performance.
+
+- [ ] Organic keywords
+- [ ] Social media ads
+- [x] Paid keywords
+- [ ] Directories
+
+When creating a presentation based on lots of data, what principle should you bear in mind?
+
+- [ ] Show all the information available, to give your audience as much context as possible
+- [x] Tailor your approach to your audience in order to tell a better story
+- [ ] Stick to visual graphics only, as everyone will prefer this presentation format over tables and text
+- [ ] Present all information in the same way because everyone interprets things similarly
+
+Why should you avoid focusing on collecting as much data as possible?
+
+- [ ] Vast quantities of data will take a long time to process
+- [ ] Large amounts of data are harder to store online
+- [x] The right information, at the right time, is more valuable
+- [ ] Spreadsheets have a limit on the amount of information they can store
+
