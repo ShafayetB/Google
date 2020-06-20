@@ -879,4 +879,3 @@ Which of the following options is important to research when planning to expand 
 - [x] The legal and tax considerations in that market
 - [ ] Which social channels are popular in that market
 - [ ] Which couriers offer the cheapest services for global shipping
-
