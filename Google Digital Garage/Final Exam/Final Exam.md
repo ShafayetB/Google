@@ -780,3 +780,55 @@ Why should you avoid focusing on collecting as much data as possible?
 - [x] The right information, at the right time, is more valuable
 - [ ] Spreadsheets have a limit on the amount of information they can store
 
+## Sell Products or Services Online
+
+When building your online product store, to make it as effective as possible you should look to optimise the performance by using images in what kind of way?
+
+- [ ] Use images direct from the internet to ensure accurate file size
+- [ ] Use images direct from the original manufacturer
+- [x] Ensure images are of a high quality
+- [ ] Use detailed descriptions instead of images to help search engines
+
+Which of these is not a benefit for businesses using fully integrated e-commerce platforms?
+
+- [ ] Stock control
+- [ ] Integrated invoicing
+- [ ] The ability to track shipping
+- [x] Automated complaints process system
+
+When trying to increase the product sales on your website, one way to achieve this is to_________?
+
+- [ ] send multiple follow up emails once a purchase has been made
+- [ ] show them remarketing ads with a variety of products
+- [x] provide the customer with relevant suggested purchases
+- [ ] - [ ] include a pop up on your website that they have to action before continuing
+
+Fill in the blank: When you are considering the layout of the product pages, it is important to put them in ________ order?
+
+- [ ] price
+- [x] hierarchical
+- [ ] a constantly changing
+- [ ] alphabetical
+
+When looking to introduce e-commerce functions to your website, which of the following would be the best first step?
+
+- [ ] Build an online store with an integrated payment system
+- [x] Set up a web-based money transfer software like PayPal
+- [ ] Invest in a new website platform
+- [ ] Use other platforms such as eBay or Etsy
+
+If a user abandons their shopping cart without making a purchase, one way to bring them back to complete the purchase is?
+
+- [ ] SEM advertising
+- [ ] Social advertising
+- [x] Retargeting
+- [ ] Email campaigns
+
+Analytics can help optimise your website for which of the following?
+
+- [x] For different devices, navigation & search
+- [ ] For different devices & social media profiles
+- [ ] For email templates & social media profiles
+- [ ] For navigation, search & video campaigns
+
+
