@@ -832,3 +832,61 @@ Analytics can help optimise your website for which of the following?
 - [ ] For navigation, search & video campaigns
 
 
+## Take a Business Global
+
+Fill in the blank: When considering expanding a business internationally, the best place to start is to__________?
+
+- [x] use online tools to help you understand where there’s a strong demand for your products
+- [ ] move the whole business to that country
+- [ ] replicate your current business in as many countries as possible
+- [ ] buy new domains for the country
+
+Fill the blanks: When advertising internationally, you should make your business ______ to the new market, consider the ___________ and any possible ___________ implications.
+
+- [x] accessible | supply chain | legal
+- [ ] affordable | supply chain | language
+- [ ] exciting | customers needs | currency
+- [ ] affordable | customer needs | legal
+
+When looking to expand your business internationally on social media, what should you do first?
+
+- [ ] Treat all social media channels the same
+- [ ] Use popular phrases and memes for that area
+- [x] Analyse platforms popular in that area
+- [ ] Not advertise at all, as other countries don’t like social advertising
+
+If you are looking to expand your company’s presence online internationally, which of the following should you consider with regards to your online content?
+
+- [ ] Translated by an automated tool only
+- [x] Translated but also locally adapted for the audience
+- [ ] Translated into the native language
+- [ ] Left the same, and not translated
+
+With more and more users using mobile to look at websites, it is key that you optimise your site so users can find it when searching online. Which two elements should you look to optimise for improved SEO performance?
+
+- [x] Site speed and usability
+- [ ] Keywords and metadata
+- [ ] Image size and navigation
+- [ ] Site speed and visual appearance
+
+Digital marketing isn’t just about selling your products internationally. It can be used to great effect for local businesses. What do we mean by ‘local businesses’?
+
+- [x] A business that operates from a specific geographic location
+- [ ] A business that is within a 5km radius from the customer
+- [ ] A business that has existed within a community for more than 5 years
+- [ ] A business that only provides a service based product
+
+Mobile advertising is a great tool for marketers, but all that good work could be undone if your website isn’t what?
+
+- [x] Optimised for different devices
+- [ ] Visually engaging
+- [ ] Full of relevant information
+- [ ] Text heavy
+
+If you are looking to expand your company’s presence online internationally, which of the following should you consider with regards to your online content?
+
+- [ ] Translated by an automated tool only
+- [x] Translated but also locally adapted for the audience
+- [ ] Translated into the native language
+- [ ] Left the same, and not translated
+
