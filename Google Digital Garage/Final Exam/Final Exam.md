@@ -314,9 +314,9 @@ Which search query would trigger an ad based on this keyword: [London portrait p
 When trying to promote your business locally, what three key bits of information should be present in your directory listing?
 
 - [x] Business name, address, phone number
-Personal name, business name, postcode
-Name, PO box, freephone number
-Business name, CEO, company registration number
+- [ ] Personal name, business name, postcode
+- [ ] Name, PO box, freephone number
+- [ ] Business name, CEO, company registration number
 
 Mobile advertising is a great tool for marketers, but all that good work could be undone if your website isn’t what?
 
@@ -461,9 +461,9 @@ When designing mobile advertising campaigns, what is a best practice to identify
 Which of the following tools could be used to gain an insight into the phrases and questions people search for about a given subject online?
 
 - [x] Answer The Public
-AdWords Editor
-Facebook business manager
-SEM Rush
+- [ ] AdWords Editor
+- [ ] Facebook business manager
+- [ ] SEM Rush
 
 When building a website for a business, what type of design should it have in order to be “mobile friendly”?
 
